@@ -1,0 +1,31 @@
+# CS 255 Portfolio Submission
+
+This repository includes my CS 255 portfolio artifacts. From Project One, I included my Business Requirements Document. 
+From Project Two, I included my System Design Document. 
+These projects show my work with gathering requirements, analyzing a client’s needs, and designing a system based on those needs.
+
+## Reflection
+
+The DriverPass project was for a client who wanted a system to help students prepare for driving tests. 
+  DriverPass needed an online system where customers could create accounts, choose training packages, schedule driving lessons, take practice tests, and view their progress. 
+The system also needed employee tools for scheduling, reports, user accounts, and DMV updates.
+
+
+I think I did well turning the interview details into clear requirements and diagrams. 
+The client gave a lot of information, so I had to organize it into functional requirements, nonfunctional requirements, users, and system features. 
+I also think my activity diagrams helped show how important processes, like scheduling a driving lesson, would work.
+
+
+If I could revise one part, I would improve the diagrams even more by making them cleaner and easier to read. 
+Some diagrams can get crowded when there are too many users, actions, or system parts. 
+In the future, I would spend more time simplifying the layout so the design is easier for both technical and nontechnical people to understand.
+
+
+I interpreted the user’s needs by looking at what DriverPass actually wanted the system to do. 
+For example, Liam wanted customers to schedule lessons online, download reports, track activity, and receive DMV updates. 
+I used those needs to shape the use case, activity, sequence, and class diagrams. 
+Considering user needs is important because a system can be technically correct but still fail if it does not solve the client’s real problems.
+
+
+My approach to designing software is to start with the requirements, identify the users, break the system into main features, 
+and then model how those features should work. In the future, I would continue using interviews, requirement lists, use case diagrams, activity diagrams, and class diagrams to analyze and design systems before coding starts.
