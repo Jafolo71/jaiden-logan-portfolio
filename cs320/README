@@ -1,0 +1,15 @@
+# CS 320 Portfolio Submission
+
+This repository includes my CS 320 portfolio artifacts. From Project One, I included the Contact Service files: `Contact.java`, `ContactService.java`, `ContactTest.java`, and `ContactServiceTest.java`. From Project Two, I included my Summary and Reflections Report.
+
+## Reflection
+
+I can make sure my code is functional by testing it against the actual requirements, not just checking if it runs. 
+In this project, I used JUnit tests to check valid and invalid contact information, such as required fields, ID length, phone number format, and address length. To help keep software secure, I need to validate input, avoid accepting bad data, and think about how the program handles errors.
+
+I interpret user needs by turning the requirements into clear rules for the program. 
+For example, the contact service needed to add, update, and delete contacts while also enforcing field limits. 
+I incorporated those needs by keeping the `Contact` class responsible for storing and validating contact data, while `ContactService` managed adding, deleting, and updating contacts.
+
+My approach to designing software is to start with the requirements, break the program into smaller parts, and test each part as I build it. 
+This project helped me see why clear requirements, simple design, and early testing are important. Going forward, I want to keep using tests as a checklist to make sure my code does what it is supposed to do.
